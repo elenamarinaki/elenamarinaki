@@ -21,3 +21,11 @@ In my previous life I used to work in the music world, either producing music fo
 - [Vintage Yamaha Reface CP](https://elenamarinaki.github.io/vintage_piano_replica/) :musical_keyboard:
 - [The Office](https://elenamarinaki.github.io/the_office/) :bowtie:
 - [Neumorphic Clock](https://elenamarinaki.github.io/neumorphic_clock/) :watch:
+
+
+## Other Places to find me :space_invader:
+- [Twitter](https://twitter.com/rhuave)
+- [LinkedIn](https://www.linkedin.com/in/elenamarinaki/)
+- [CodeWars](https://www.codewars.com/users/rhuave)
+- [freeCodeCamp](https://www.freecodecamp.org/fcc74ffc650-45d5-40a4-92d7-009023cbd189)
+- [YouTube](https://www.youtube.com/channel/UCb-BPyGLnxMOESIFy3vkg_w)
