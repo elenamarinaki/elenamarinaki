@@ -3,7 +3,7 @@
 
 I am Elena (she/her) - Welcome to my GitHub space! :sparkles:
 
-I am currently training to become a web developer with the amazing people of [@foundersandcoders](https://github.com/foundersandcoders) (FAC21 Autumn Cohort) :star_struck:
+I am currently training to become a web developer with the amazing people of [@foundersandcoders](https://github.com/foundersandcoders) (FAC22 Autumn Cohort) :star_struck:
 
 In my previous life I used to work in the music world, either producing music for artists and media or teaching people piano and classical composition. :radio: :violin:
 
