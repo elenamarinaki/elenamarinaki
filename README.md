@@ -19,7 +19,7 @@ In my previous life I used to work in the music world, either producing music fo
 - [MEA Robotics](https://fac22.github.io/Michael-Elena-Agency/) :robot:
 - [Covid Tracker](https://fac22.github.io/Adriana_Elena-API/) :dna:
 - [Vintage Yamaha Reface CP](https://elenamarinaki.github.io/vintage_piano_replica/) :musical_keyboard:
-- [The Office](https://elenamarinaki.github.io/the_office/) :spiral_notepad:
+- [The Office](https://elenamarinaki.github.io/the_office/){:target="\_blank"} :spiral_notepad:
 - <a href='https://elenamarinaki.github.io/neumorphic_clock/' target='_blank'>Neumorphic Clock</a> :watch:
 - <a href='https://elenamarinaki.github.io/squareboard/' target='_blank'>Square Board - a fun drawing board!</a> :yellow_square: :orange_square: :purple_square:
 
