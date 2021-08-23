@@ -15,6 +15,7 @@ In my previous life I used to work in the music world, either producing music fo
 
 ## Check my Projects :blush:
 
+- [Prime Tables](https://elenamarinaki.github.io/prime-tables/) 🎲
 - [TheGuardian Repo](https://elenamarinaki.github.io/TheGuardian_Repo/) :newspaper:
 - [Change All The Bad Things](https://elenamarinaki.github.io/form-catbt/) :seedling:
 - [Covid Tracker](https://fac22.github.io/Adriana_Elena-API/) :dna:
