@@ -10,7 +10,8 @@ In my previous life I used to work in the music world, either producing music fo
 :heart: I fell in love with CSS first, when I tried to make a replica of my beloved [Vintage Yamaha Reface CP](https://elenamarinaki.github.io/vintage_piano_replica/) piano for fun! (check the [code](https://github.com/elenamarinaki/vintage_piano_replica)) :musical_keyboard:
 
 :tornado: Fast forward one year later, I am spending all my free (and most often all of my not free :hand_over_mouth:) time learning HTML, CSS and JavaScript and other web candy I discover everyday :lollipop:.
-Right now I am being obsessed with REACT ⚛️
+
+Right now I am being obsessed with REACT ⚛️ I find it so fascinating that I have control of the DOM without having to touch it! 🤯
 
 ---
 
