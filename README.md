@@ -13,6 +13,8 @@ In my previous life I used to work in the music world, either producing music fo
 
 Right now I am being obsessed with REACT ⚛️ I find it so fascinating that I have control of the DOM without having to touch it! 🤯
 
+At the same time, I am learning more about testing, exploring the different types and how it's being used in the industry for more effective production and better products. 🧪
+
 ---
 
 ## Check my Projects :blush:
