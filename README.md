@@ -19,14 +19,15 @@ At the same time, I am learning more about testing, exploring the different type
 
 ## Check my Projects :blush:
 
+- [Task Tracker](https://github.com/elenamarinaki/task-tracker) using React ⚛
 - [Prime Tables](https://elenamarinaki.github.io/prime-tables/) 🎲
 - [TheGuardian Repo](https://elenamarinaki.github.io/TheGuardian_Repo/) :newspaper:
 - [Change All The Bad Things](https://elenamarinaki.github.io/form-catbt/) :seedling:
 - [Covid Tracker](https://fac22.github.io/Adriana_Elena-API/) :dna:
 - [Random Colour Generator](https://elenamarinaki.github.io/random-colour-generator/) :art:
 - [Vintage Yamaha Reface CP](https://elenamarinaki.github.io/vintage_piano_replica/) :musical_keyboard:
-- [The Office](https://elenamarinaki.github.io/the_office/) :spiral_notepad:
-- [Square Board - a fun drawing board!](https://elenamarinaki.github.io/squareboard/) :yellow_square: :orange_square: :purple_square:
+<!-- - [The Office](https://elenamarinaki.github.io/the_office/) :spiral_notepad: -->
+<!-- - [Square Board - a fun drawing board!](https://elenamarinaki.github.io/squareboard/) :yellow_square: :orange_square: :purple_square: -->
 
 ## Other Places to find me :space_invader:
 
