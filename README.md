@@ -11,7 +11,7 @@ In my previous life I used to work in the music world, either producing music fo
 
 :tornado: Fast forward one year later, I am spending all my free (and most often all of my not free :hand_over_mouth:) time learning HTML, CSS and JavaScript and other web candy I discover everyday :lollipop:.
 
-Right now I am being obsessed with REACT ⚛️ I find it so fascinating that I have control of the DOM without having to touch it! 🤯
+Right now I am being obsessed with `React` and `Next.js`. I find it so fascinating that I have control of the DOM without having to touch it! 🤯
 
 At the same time, I am learning more about testing, exploring the different types and how it's being used in the industry for more effective production and better products. 🧪
 
@@ -26,8 +26,8 @@ At the same time, I am learning more about testing, exploring the different type
 - [Covid Tracker](https://fac22.github.io/Adriana_Elena-API/) :dna:
 - [Random Colour Generator](https://elenamarinaki.github.io/random-colour-generator/) :art:
 - [Vintage Yamaha Reface CP](https://elenamarinaki.github.io/vintage_piano_replica/) :musical_keyboard:
-<!-- - [The Office](https://elenamarinaki.github.io/the_office/) :spiral_notepad: -->
-<!-- - [Square Board - a fun drawing board!](https://elenamarinaki.github.io/squareboard/) :yellow_square: :orange_square: :purple_square: -->
+  <!-- - [The Office](https://elenamarinaki.github.io/the_office/) :spiral_notepad: -->
+  <!-- - [Square Board - a fun drawing board!](https://elenamarinaki.github.io/squareboard/) :yellow_square: :orange_square: :purple_square: -->
 
 ## Other Places to find me :space_invader:
 
