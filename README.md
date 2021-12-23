@@ -17,7 +17,7 @@ My goal is to be able to work on full-stack development and keep learning more a
 
 ## Check my Projects :blush:
 
-- [Mind Solent](https://solent-mind.vercel.app/) || [GitHub repo](https://github.com/tech-for-better/solent-mind) (**Tech for Better** project I built with [Anna Cunnane](https://github.com/Moggach), [Michael Williams](https://github.com/MJOW1999), [Danilo Cupido](https://github.com/danilo-cupido) and [Jihye Pak](https://github.com/jijip41)) ✨
+- [Mind Solent](https://solent-mind.vercel.app/) 🧠 || [GitHub repo](https://github.com/tech-for-better/solent-mind) (**Tech for Better** project I built with [Anna Cunnane](https://github.com/Moggach), [Michael Williams](https://github.com/MJOW1999), [Danilo Cupido](https://github.com/danilo-cupido) and [Jihye Pak](https://github.com/jijip41)) ✨
 - [Task Tracker](https://github.com/elenamarinaki/task-tracker) using React ⚛
 - [Prime Tables](https://elenamarinaki.github.io/prime-tables/) 🎲
 - [TheGuardian Repo](https://elenamarinaki.github.io/TheGuardian_Repo/) :newspaper:
