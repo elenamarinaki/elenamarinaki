@@ -9,16 +9,15 @@ In my previous life I used to work in the music world, either producing music fo
 
 :heart: I fell in love with CSS first, when I tried to make a replica of my beloved [Vintage Yamaha Reface CP](https://elenamarinaki.github.io/vintage_piano_replica/) piano for fun! (check the [code](https://github.com/elenamarinaki/vintage_piano_replica)) :musical_keyboard:
 
-:tornado: Fast forward one year later, I am spending all my free (and most often all of my not free :hand_over_mouth:) time learning HTML, CSS and JavaScript and other web candy I discover everyday :lollipop:.
+:tornado: Fast forward one year later, I have graduated form the `Founders & Coders` bootcamp in London and now spending my time either learning a new framework, studying databases or building something new for the company I am working with :lollipop:.
 
-Right now I am being obsessed with `React` and `Next.js`. I find it so fascinating that I have control of the DOM without having to touch it! 🤯
-
-At the same time, I am learning more about testing, exploring the different types and how it's being used in the industry for more effective production and better products. 🧪
+My goal is to be able to work on full-stack development and keep learning more about new technologies and testing, exploring the different types and how it's being used in the industry for more effective production and better products. 🧪
 
 ---
 
 ## Check my Projects :blush:
 
+- [Mind Solent](https://solent-mind.vercel.app/) || [GitHub repo](https://github.com/tech-for-better/solent-mind) (**Tech for Better** project I built with [Anna Cunnane](https://github.com/Moggach), [Michael Williams](https://github.com/MJOW1999), [Danilo Cupido](https://github.com/danilo-cupido) and [Jihye Pak](https://github.com/jijip41)) ✨
 - [Task Tracker](https://github.com/elenamarinaki/task-tracker) using React ⚛
 - [Prime Tables](https://elenamarinaki.github.io/prime-tables/) 🎲
 - [TheGuardian Repo](https://elenamarinaki.github.io/TheGuardian_Repo/) :newspaper:
