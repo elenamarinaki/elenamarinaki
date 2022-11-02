@@ -9,7 +9,7 @@ In my previous life I used to work in the music world, either producing music fo
 
 :heart: I fell in love with CSS and JavaScript first, when I tried to make a replica of my beloved [Vintage Yamaha Reface CP](https://elenamarinaki.github.io/vintage_piano_replica/) piano for fun! (check the [code](https://github.com/elenamarinaki/vintage_piano_replica)) :musical_keyboard:
 
-:tornado: Fast forward almost two years later, today, I have graduated form the `Founders & Coders` bootcamp in London and now spending my time either learning a new technology or building something new for the company I am working with :lollipop:.
+⚡️ About a year ago, I graduated form the `Founders & Coders` bootcamp in London and today I usually spend my time either learning something or building something new at Companion Studio 🧱.
 
 I am currently working on full-stack development, which I am enjoying so much as I get to see things coming to life from beginning to end :)
 
