@@ -18,6 +18,7 @@ Lastly, I enjoy reading tech blogs and technical writing. This is why I recently
 ---
 
 ## Check my Projects :blush:
+- [Minimal ChatGPT](https://minimal-gpt.vercel.app/) - Project with React, Express and Styled-Components 
 - [Kalliope Marinaki Artist Portfolio](https://www.kalliopemarinaki.com/) - Project with Next.js, Typescript, Sanity CMS & Stitches
 - [Mind Solent](https://solent-mind.vercel.app/) 🧠 || [GitHub repo](https://github.com/tech-for-better/solent-mind) (**Tech for Better** project I built with [Anna Cunnane](https://github.com/Moggach), [Michael Williams](https://github.com/MJOW1999), [Danilo Cupido](https://github.com/danilo-cupido) and [Jihye Pak](https://github.com/jijip41)) ✨
 - [Skin Goals](https://skingoals-416a2.web.app/) 🧴 || [GitHub repo](https://github.com/fac22/skin-goals) (project I built with [Adriana Stanciu](https://github.com/aaadriana) and [Alex Lopez](https://github.com/lopezelpesado)) ✨
