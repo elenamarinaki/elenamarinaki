@@ -9,9 +9,8 @@ In my previous life I used to work in the music world, either producing music fo
 
 :heart: When I first fell in love with CSS and JavaScript, I tried to make a replica of my beloved [Vintage Yamaha Reface CP](https://elenamarinaki.github.io/vintage_piano_replica/) piano for fun! (check the [code](https://github.com/elenamarinaki/vintage_piano_replica)) :musical_keyboard:
 
-⚡️ Since 2021, I have been working at Companion Studio in London, where I get the chance to build a variety of projects using a very diverse stack: React - Netx.js, Typescript, Sanity CMS, GraphQL - Prisma - PostgreSQL Databases, Astro, Node.js, React Native, tRPC.io, React-Query, Jest, Cypress, Stitches, Tailwind and many more!
-
-I enjoy exploring new technologies and compare them with the ones I already know. This way I understand the core concepts of programming in a more intuitive way while having fun :) 
+⚡️ Between 2021 - early 2023, I worked at Companion Studio in London, where I got the chance to build a variety of projects using a very diverse stack: React - Netx.js, Typescript, Sanity CMS, GraphQL - Prisma - PostgreSQL Databases, Astro, Node.js, React Native, tRPC.io, React-Query, Jest, Cypress, Stitches, Tailwind and more!
+⚡ Since 2023, I have been working at Policy in Practice in London, developing the Better Off Calculator, a powerful income maximisation tool. Technologies I have been using for the past two years are: Angular, Node.js, Typescript and everything AWS :)
 
 Lastly, I enjoy reading tech blogs and technical writing. This is why I recently started my own blog at Hashnode - you can check my first article [here](https://elenamarinaki.hashnode.dev/graphql-vs-trpc)!
 
